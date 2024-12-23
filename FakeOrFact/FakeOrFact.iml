@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="jsoup1" level="application" />
+    <orderEntry type="library" name="github.java.json.tools.patch" level="application" />
+    <orderEntry type="library" name="eduworks.json.ld" level="application" />
+    <orderEntry type="library" name="google.code.gson4" level="application" />
+    <orderEntry type="library" name="mysql.connector.java2" level="application" />
+    <orderEntry type="library" name="telegram.telegrambots.chat.session.bot" level="application" />
+    <orderEntry type="library" name="slf4j.simple" level="application" />
+  </component>
+</module>
